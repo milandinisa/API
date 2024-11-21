@@ -1,0 +1,75 @@
+[
+    
+    {
+        "firstName":"Mila",
+        "lastName":"Ndinisa",
+        "favHobby":"Smiling",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"BMW",
+                "engineCapacity":4,
+                "model":"M6"
+            },
+            {
+                "carName":"BMW",
+                "engineCapacity":8,
+                "model":"X6"
+            }
+        ]
+    },  
+    {
+        "firstName":"Yandile",
+        "lastName":"Matyityilili",
+        "favHobby":"Smiling",
+        "criminal":"true",
+        "dreamCars":[
+            {
+                "carName":"BMw",
+                "engineCapacity":4,
+                "model":"M2"
+            },
+            {
+                "carName":"Tesla Model X",
+                "engineCapacity":8,
+                "model":"Electric"
+            }
+        ]
+    },   
+    {
+        "firstName":"Ibie",
+        "lastName":"Karlie",
+        "favHobby":"Sleeping",
+        "criminal":"true",
+        "dreamCars":[
+            {
+                "carName":"Golf",
+                "engineCapacity":3,
+                "model":"City golf"
+            },
+            {
+                "carName":"Ford",
+                "engineCapacity":5.2,
+                "model":"Raptor"
+            }
+        ]
+    }, 
+    {
+        "firstName":"Abdul",
+        "lastName":"Falten",
+        "favHobby":"Laughing",
+        "criminal":"false",
+        "dreamCars":[
+            {
+                "carName":"Lamborghini",
+                "engineCapacity":6,
+                "model":"Urus"
+            },
+            {
+                "carName":"Mercedes Benz",
+                "engineCapacity":4.2,
+                "model":"C63"
+            }
+        ]
+    }
+]
